@@ -1,0 +1,15 @@
+{
+  "name": "point-doc",
+  "version": "1.0.0",
+  "description": "documentation site of point.",
+  "main": "index.js",
+  "author": "Dr. Takeyuki UEDA",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
