@@ -10,13 +10,5 @@ actionLink: https://point.uedasoft.com
 footer: ©Atelier Ueda
 footerLink: https://atelierueda.uedasoft.com/
 ---
-  <h3 style="color: #3a5169;">What is the <b>Point™️</b>?</h3>
-  Connect™️ provide a <b>direct connection</b> between your <b>Raspberry Pi</b> and your <b>Web Browser</b>. Because of direct connection, there are no intermediate server, which cause delays and can be security hole. In technical terms, this connection is what's called a <b>websocket's detachannel</b>.
-
-  <div class="feature">
-    <h2 style="color: #3a5169;">2 types of connection, <b>Fast</b> & <b>Saving</b>.</h2>
-  </div>
-  <div class="feature">
-    <h2 style="color: #3a5169;">Connect only when needed for normally quiet devices.</h2>
-    けろけろ
-  </div>
+<h3 style="color: #3a5169;">What is the <b>Point™️</b>?</h3>
+Point is a token for premium features Atelier UEDA will launch soon. So far, Atelier Ueda has been offering free-of-charge services like [Monitor](https://monitor.uedasoft.com/) or [Koshinto](https://koshinto.uedasoft.com/docs/) by adopting architectures that request inexpensive running costs.  For example, the [Monitor](https://monitor.uedasoft.com/) is a remote monitoring system that uses still images updating regularly, which is an unusual architecture compared to general remote monitoring systems using moving images. 
