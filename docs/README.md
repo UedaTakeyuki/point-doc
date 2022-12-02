@@ -19,4 +19,4 @@ Even so, there cannot be ignored features even if their running cost is unignora
 
 This is why the Point is necessary. By introducing the Point, which are tokens common to Atelier Ueda, it is possible to reduce the payment process to just one place to purchase the Point. So, I developed the Point before developing premium features.
 
-
+<h3 style="color: #3a5169;">How does the <b>Point™️</b> work?</h3>
